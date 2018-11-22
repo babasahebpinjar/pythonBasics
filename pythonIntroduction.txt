@@ -1,0 +1,39 @@
+Python programming Language
+  
+  1. Developed in the 80s
+  2. DErived from C, C++, Small talk...
+  3. High Level programming language
+  4. Intepreted language
+  5. Object Oriented
+ 
+Features : Python is Simple, Portable, open Source and many libraries
+
+simple: print "Hello world"
+open Source : Large community backing up
+
+
+Setup Linux and Windows
+
+# python
+>> print "Hello world"
+
+Windows
+
+  https://www.python.org/ftp/python/3.7.1/python-3.7.1.exe
+
+Linux
+  
+  sudo aot-get install python 
+  
+What is programmming laguage: It s a language used to communicate with machine (Computer) eg : java, c++, python etc
+
+ Two types :
+    1. Interpreted languages   
+    
+                        Programming Code   ===> Interpreter   ==+> Execution
+    
+    Interpreting reads your code line by line and executes directly at runtime in the language understood by your machine. e: python ruby
+ 
+    2.  Compiled languages
+    
+                  Programming Code ==> Cimplier ==> Binary Code(0,1)  ==> Program Execution
